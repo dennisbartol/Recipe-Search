@@ -14,7 +14,7 @@ export const RecipesPage = () => {
 			   <Heading
 				 fontSize={{ base: "4xl", md: "5xl", xl: "6xl" }}
 				 color={"black"}>
-				 Recipe Finder
+				 #Winc (React) Recipe Search Engine
 			   </Heading>
 				 
 				<RecipeSearch onSearch={setUserRecipeChoice} />
